@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "coffee-script": "~1.6.2"
+    "coffee-script": "git://github.com/alubbe/coffee-script.git#1e377ed59bc4f679863b7543f0c33d1f89dbf6ac"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.4",
